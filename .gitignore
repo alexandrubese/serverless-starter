@@ -1,0 +1,8 @@
+# package directories
+node_modules
+jspm_packages
+.build
+.nyc_output
+
+# Serverless directories
+.serverless
